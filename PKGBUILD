@@ -6,7 +6,7 @@
 
 pkgname=prey-bash-client
 pkgver=0.6.4
-pkgrel=3
+pkgrel=1
 pkgdesc='Remote tracking and monitoring application for laptops, smartphones, and other electronic devices'
 arch=('any')
 url='http://preyproject.com/'
